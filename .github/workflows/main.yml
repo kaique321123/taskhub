@@ -25,10 +25,10 @@ jobs:
           bundle exec rails db:migrate 
       - name: Run tests with coverage
         run: bundle exec rake
-      - name: Send coverage to CodeClimate
-        uses: paambaati/codeclimate-action@v6.0.0
-        env:
-          CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
-        with:
-          coverageLocations: |
-            ${{github.workspace}}/coverage/lcov.info:lcov
+      # - name: Send coverage to CodeClimate
+      #   uses: paambaati/codeclimate-action@v6.0.0
+      #   env:
+      #     CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
+      #   with:
+      #     coverageLocations: |
+      #       ${{github.workspace}}/coverage/lcov.info:lcov
