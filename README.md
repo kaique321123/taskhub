@@ -7,7 +7,9 @@ Um gerenciador de tarefas simples e eficiente, criado para organizar os trabalho
 ## Status do Projeto
 
 [![Ruby on Rails CI](https://github.com/kaique321123/taskhub/actions/workflows/main.yml/badge.svg)](https://github.com/kaique321123/taskhub/actions/workflows/main.yml)
+
 [![Coverage Status](https://coveralls.io/repos/github/kaique321123/taskhub/badge.svg?branch=main)](https://coveralls.io/github/kaique321123/taskhub?branch=main)
+
 ![Code Climate maintainability](https://api.codeclimate.com/v1/badges/SEU_BADGE_ID/maintainability)
 
 ---
@@ -20,7 +22,7 @@ O **TaskHub de Estudos** busca organizar e centralizar as tarefas e responsabili
 
 ## Links Úteis 🔗
 
-* **Aplicação no Heroku:**[ `\[LINK PARA APLICAÇÃO NO HEROKU\]`](https://taskhub-grupo-2025-c2fd856b0fb6.herokuapp.com/)
+* **Aplicação no Heroku:**[`[LINK PARA APLICAÇÃO NO HEROKU]`](https://taskhub-grupo-2025-c2fd856b0fb6.herokuapp.com/)
 * **Projeto no Pivotal Tracker:** `[LINK SERÁ FORNECIDO EM BREVE]`
 
 ---
