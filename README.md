@@ -20,7 +20,7 @@ O **TaskHub de Estudos** busca organizar e centralizar as tarefas e responsabili
 
 ## Links Úteis 🔗
 
-* **Aplicação no Heroku:** `[LINK PARA SUA APLICAÇÃO NO HEROKU]`
+* **Aplicação no Heroku:**[ `\[LINK PARA APLICAÇÃO NO HEROKU\]`](https://taskhub-grupo-2025-c2fd856b0fb6.herokuapp.com/)
 * **Projeto no Pivotal Tracker:** `[LINK SERÁ FORNECIDO PELO PROFESSOR]`
 
 ---
