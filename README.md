@@ -6,9 +6,9 @@ Um gerenciador de tarefas simples e eficiente, criado para organizar os trabalho
 
 ## Status do Projeto
 
-![CI Status](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/main.yml/badge.svg)
+[![Ruby on Rails CI](https://github.com/kaique321123/taskhub/actions/workflows/main.yml/badge.svg)](https://github.com/kaique321123/taskhub/actions/workflows/main.yml)
+[![Coverage Status](https://coveralls.io/repos/github/kaique321123/taskhub/badge.svg?branch=main)](https://coveralls.io/github/kaique321123/taskhub?branch=main)
 ![Code Climate maintainability](https://api.codeclimate.com/v1/badges/SEU_BADGE_ID/maintainability)
-![Coverage Status](https://coveralls.io/repos/github/SEU_USUARIO/SEU_REPOSITORIO/badge.svg?branch=main)
 
 ---
 
@@ -21,52 +21,7 @@ O **TaskHub de Estudos** busca organizar e centralizar as tarefas e responsabili
 ## Links Úteis 🔗
 
 * **Aplicação no Heroku:**[ `\[LINK PARA APLICAÇÃO NO HEROKU\]`](https://taskhub-grupo-2025-c2fd856b0fb6.herokuapp.com/)
-* **Projeto no Pivotal Tracker:** `[LINK SERÁ FORNECIDO PELO PROFESSOR]`
-
----
-
-## Como Rodar o Projeto Localmente 🛠️
-
-Para configurar o ambiente de desenvolvimento e rodar o projeto na sua máquina, siga os passos abaixo.
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    cd taskhub
-    ```
-
-2.  **Instale as dependências:**
-    ```bash
-    bundle install
-    ```
-
-3.  **Configure o banco de dados:**
-    ```bash
-    rails db:create
-    rails db:migrate
-    ```
-
-4.  **Inicie o servidor:**
-    ```bash
-    rails server
-    ```
-    Agora você pode acessar a aplicação em `http://localhost:3000`.
-
----
-
-## Como Rodar os Testes ✅
-
-Para garantir a qualidade e o bom funcionamento do código, execute a suíte de testes com os seguintes comandos:
-
-* **RSpec (Testes de Unidade/Modelo):**
-    ```bash
-    rake spec
-    ```
-
-* **Cucumber (Testes de Aceitação/Funcionalidade):**
-    ```bash
-    rake cucumber
-    ```
+* **Projeto no Pivotal Tracker:** `[LINK SERÁ FORNECIDO EM BREVE]`
 
 ---
 
