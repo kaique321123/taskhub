@@ -30,6 +30,6 @@ O **TaskHub de Estudos** busca organizar e centralizar as tarefas e responsabili
 ## Integrantes do Grupo 8
 
 * Gustavo Henriques Vieira       NºUSP: 14713982
-* João Pedro Ribeiro Barbosa     NºUSP: xxxxxxxx
-* Kaique de Jesus Pessoa Santos  NºUSP: xxxxxxxx
+* João Pedro Ribeiro Barbosa     NºUSP: 14677248
+* Kaique de Jesus Pessoa Santos  NºUSP: 14677144
 * Renan Bezerra Guimarães        NºUSP: 14605640
