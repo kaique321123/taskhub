@@ -33,3 +33,7 @@ O **TaskHub de Estudos** busca organizar e centralizar as tarefas e responsabili
 * João Pedro Ribeiro Barbosa     NºUSP: 14677248
 * Kaique de Jesus Pessoa Santos  NºUSP: 14677144
 * Renan Bezerra Guimarães        NºUSP: 14605640
+* Lucca Ishikawa Ribeiro
+NºUSP: 14760172
+* João Ricardo Paiva Camargo
+NºUSP: 14747274
