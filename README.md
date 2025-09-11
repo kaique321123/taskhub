@@ -1,22 +1,23 @@
-# TaskHub de Estudos 🚀
+# We Shop 🛒
 
-Um gerenciador de tarefas simples e eficiente, criado para organizar os trabalhos e projetos de grupos de faculdade.
+Um aplicativo de lista de compras compartilhada, feito para simplificar a vida de amigos e famílias.
 
 ---
 
 ## Status do Projeto
 
-[![Ruby on Rails CI](https://github.com/kaique321123/taskhub/actions/workflows/main.yml/badge.svg)](https://github.com/kaique321123/taskhub/actions/workflows/main.yml)
+[![Ruby on Rails CI Badge](https://github.com/kaique321123/taskhub/actions/workflows/main.yml/badge.svg)](https://github.com/kaique321123/taskhub/actions/workflows/main.yml)
 
-[![Coverage Status](https://coveralls.io/repos/github/kaique321123/taskhub/badge.svg?branch=main)](https://coveralls.io/github/kaique321123/taskhub?branch=main)
+[![Coverage Status Badge](https://coveralls.io/repos/github/kaique321123/taskhub/badge.svg?branch=main)](https://coveralls.io/github/kaique321123/taskhub?branch=main)
 
-![Code Climate maintainability](https://api.codeclimate.com/v1/badges/SEU_BADGE_ID/maintainability)
+![Code Climate Badge](https://api.codeclimate.com/v1/badges/SEU_BADGE_ID/maintainability)
 
 ---
 
 ## Descrição do Problema
 
-O **TaskHub de Estudos** busca organizar e centralizar as tarefas e responsabilidades de grupos de estudo da faculdade. Atualmente, os grupos se perdem em mensagens de WhatsApp e e-mails, sem ter um lugar único para ver quem é responsável pelo quê e qual o prazo de cada entrega.
+Organizar as compras do dia a dia pode ser um desafio, especialmente quando várias pessoas precisam colaborar. As listas de papel se perdem, as mensagens de texto geram confusão, e os itens acabam sendo comprados em duplicidade.
+O **We Shop** resolve esse problema ao oferecer uma plataforma centralizada e em tempo real, onde grupos de amigos, famílias ou colegas de casa podem criar e gerenciar listas de compras de forma conjunta, garantindo que todos estejam na mesma página.
 
 ---
 
@@ -27,13 +28,13 @@ O **TaskHub de Estudos** busca organizar e centralizar as tarefas e responsabili
 
 ---
 
-## Integrantes do Grupo 8
+## Integrantes do Grupo 5
 
-* Gustavo Henriques Vieira       NºUSP: 14713982
-* João Pedro Ribeiro Barbosa     NºUSP: 14677248
-* Kaique de Jesus Pessoa Santos  NºUSP: 14677144
-* Renan Bezerra Guimarães        NºUSP: 14605640
-* Lucca Ishikawa Ribeiro
-NºUSP: 14760172
-* João Ricardo Paiva Camargo
-NºUSP: 14747274
+| Nome do Integrante | Nº USP |
+| :--- | :---: |
+| Gustavo Henriques Vieira | 14713982 |
+| João Pedro Ribeiro Barbosa | 14677248 |
+| Kaique de Jesus Pessoa Santos | 14677144 |
+| Renan Bezerra Guimarães | 14605640 |
+| Lucca Ishikawa Ribeiro | 14760172 |
+| João Ricardo Paiva Camargo | 14747274 |
