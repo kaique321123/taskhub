@@ -17,7 +17,7 @@ Um aplicativo de lista de compras compartilhada, feito para simplificar a vida d
 ## Descrição do Problema
 
 Organizar as compras do dia a dia pode ser um desafio, especialmente quando várias pessoas precisam colaborar. As listas de papel se perdem, as mensagens de texto geram confusão, e os itens acabam sendo comprados em duplicidade.
-O **We Shop** resolve esse problema ao oferecer uma plataforma centralizada e em tempo real, onde grupos de amigos, famílias ou colegas de casa podem criar e gerenciar listas de compras de forma conjunta, garantindo que todos estejam na mesma página.
+O **We Shop** pretende resolver este problema ao oferecer uma plataforma centralizada e em tempo real, onde grupos de amigos, famílias ou colegas de casa podem criar e gerenciar listas de compras de forma conjunta, garantindo que todos estejam na mesma página.
 
 ---
 
