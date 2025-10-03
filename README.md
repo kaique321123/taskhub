@@ -8,9 +8,9 @@ Um portal completo para planejamento de viagens colaborativo, facilitando a orga
 
 [![Ruby on Rails CI Badge](https://github.com/kaique321123/taskhub/actions/workflows/main.yml/badge.svg)](https://github.com/kaique321123/taskhub/actions/workflows/main.yml)
 
-[![Coverage Status Badge](https://coveralls.io/repos/github/kaique321123/taskhub/badge.svg?branch=main)](https://coveralls.io/github/kaique321123/taskhub?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/kaique321123/Reisen/badge.svg?branch=main)](https://coveralls.io/github/kaique321123/Reisen?branch=main)
 
-![Code Climate Badge](https://api.codeclimate.com/v1/badges/SEU_BADGE_ID/maintainability)
+[![Code Climate Badge](https://api.codeclimate.com/v1/badges/SEU_BADGE_ID/maintainability)
 
 ---
 
