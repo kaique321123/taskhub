@@ -1,6 +1,6 @@
-# We Shop 🛒
+# Reisen - Planejamento de viagens ✈️🌍
 
-Um aplicativo de lista de compras compartilhada, feito para simplificar a vida de amigos e famílias.
+Um portal completo para planejamento de viagens colaborativo, facilitando a organização de itinerários, orçamentos e informações de destino para grupos de amigos e famílias.
 
 ---
 
@@ -16,8 +16,8 @@ Um aplicativo de lista de compras compartilhada, feito para simplificar a vida d
 
 ## Descrição do Problema
 
-Organizar as compras do dia a dia pode ser um desafio, especialmente quando várias pessoas precisam colaborar. As listas de papel se perdem, as mensagens de texto geram confusão, e os itens acabam sendo comprados em duplicidade.
-O **We Shop** pretende resolver este problema ao oferecer uma plataforma centralizada e em tempo real, onde grupos de amigos, famílias ou colegas de casa podem criar e gerenciar listas de compras de forma conjunta, garantindo que todos estejam na mesma página.
+Planejar uma viagem em grupo ou família é frequentemente uma tarefa complexa, envolvendo a coordenação de vários itinerários, a divisão de orçamentos e a coleta de informações de diferentes fontes. Isso leva a confusão, duplicação de tarefas e estresse desnecessário.
+O **Reisen** tem como objetivo centralizar todo o processo de planejamento. Ele oferece um espaço colaborativo em tempo real onde os usuários podem definir destinos, montar itinerários detalhados, gerenciar despesas de viagem e compartilhar documentos importantes de forma organizada, garantindo que todos os participantes estejam alinhados e prontos para a aventura.
 
 ---
 
