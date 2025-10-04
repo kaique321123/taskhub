@@ -24,7 +24,7 @@ O **Reisen** tem como objetivo centralizar todo o processo de planejamento. Ele 
 ## Links Úteis 🔗
 
 * **Aplicação no Heroku:**[`[LINK PARA APLICAÇÃO NO HEROKU]`](https://taskhub-grupo-2025-c2fd856b0fb6.herokuapp.com/)
-* **Projeto no Pivotal Tracker:** `[LINK SERÁ FORNECIDO EM BREVE]`
+* [**Projeto no Jira, template Scrum:**](https://renan-bezerra-guima.atlassian.net/jira/software/projects/ER/boards/35)
 
 ---
 
@@ -34,7 +34,9 @@ O **Reisen** tem como objetivo centralizar todo o processo de planejamento. Ele 
 | :--- | :---: |
 | Gustavo Henriques Vieira | 14713982 |
 | João Pedro Ribeiro Barbosa | 14677248 |
-| Kaique de Jesus Pessoa Santos | 14677144 |
-| Renan Bezerra Guimarães | 14605640 |
-| Lucca Ishikawa Ribeiro | 14760172 |
 | João Ricardo Paiva Camargo | 14747274 |
+| Kaique de Jesus Pessoa Santos | 14677144 |
+| Lucca Ishikawa Ribeiro | 14760172 |
+| Renan Bezerra Guimarães | 14605640 |
+
+
